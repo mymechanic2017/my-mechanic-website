@@ -167,11 +167,7 @@ export default function App() {
         </p>
 
         <p style={{ maxWidth: 700, margin: "15px auto", color: "#555", lineHeight: 1.7 }}>
-          I worked for a local Harley-Davidson Dealer for over 25+ years and got hurt on the job and was unfortunately laid-off.
-        </p>
-
-        <p style={{ maxWidth: 700, margin: "15px auto", color: "#555", lineHeight: 1.7 }}>
-          I opened our Family Shop in 2017 and have been blessed to serve our communities ever since.
+          After 25+ years at a local Harley-Davidson Dealer we opened our Family Shop in 2017 and have been blessed to serve our communities ever since.
         </p>
 
         <p style={{ maxWidth: 700, margin: "15px auto", color: "#555", lineHeight: 1.7 }}>
